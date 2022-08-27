@@ -8,9 +8,9 @@ authors:
     link: https://blog.cronje.me
     avatar: https://assets.cronje.me/avatars/darker.jpg
 date: 2022-03-07T16:58
-description: Tools and Self Hosted for CRONje.ME
+description: Perl Development for CRONje.ME
 edit:
-  repo: "https://github.com/charlpcronje/tools.docs.cronje.me/edit/"
+  repo: "https://github.com/charlpcronje/perl.docs.cronje.me/edit/"
   base: /src
   branch: main
   label: Edit on GitHub
