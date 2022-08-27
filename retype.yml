@@ -4,6 +4,7 @@ url: http://perl.docs.cronje.me
 branding:
   title: cronje.me
   label: WIKI
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
